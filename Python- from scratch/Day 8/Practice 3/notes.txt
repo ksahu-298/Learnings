@@ -1,0 +1,33 @@
+ Core Fundamentals :- 
+1.) Variables, dynamic typing, type casting 
+2.) Input/output handling 
+3.) Operators 
+4.) Control flow (if-else, loops) 
+5.) Functions and modular programming 
+6.) Data structures (lists, tuples, dictionaries, sets) 
+7.) Error handling (try-except) 
+8.) File handling basics 
+
+ Object-Oriented Programming (OOP) :- 
+1.) Classes and objects 
+2.) Inheritance 
+3.) Polymorphism 
+4.) Encapsulation 
+5.) Abstraction 
+6.) Special methods (dunder methods) 
+
+ Advanced Topics :- 
+1.) List comprehensions and generator expressions 
+2.) Decorators and higher-order functions 
+3.) Lambda functions 
+4.) Modules and packages 
+5.) Working with libraries (e.g., NumPy, Pandas) 
+6.) Introduction to web frameworks (e.g., Flask, Django) 
+
+ Best Practices :- 
+1.) Code readability and commenting 
+2.) 
+Version control with Git 
+3.) Testing and debugging 
+4.) Performance optimization 
+5.) Documentation 
