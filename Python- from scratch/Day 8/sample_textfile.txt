@@ -1,0 +1,4 @@
+Hello, Good morning, my name is Karan. I am a B.Tech Computer Science student specializing in Artificial Intelligence and Machine Learning. I have a strong foundation in Python, data structures, and core machine learning concepts, and I have worked on multiple hands-on projects including handwritten digit recognition, spam email classification, image captioning, and a movie recommendation system.
+Alongside academics, I actively focus on building real-world skills by practicing DSA, developing projects, and continuously improving my problem-solving ability. My main interest lies in applying machine learning and AI to build practical, scalable solutions.
+I am currently looking for an opportunity where I can contribute as a learner, grow as an engineer, and add real value to the team.
+
